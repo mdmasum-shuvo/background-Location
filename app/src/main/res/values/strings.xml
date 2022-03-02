@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">background location</string>
+    <string name="notification_title">title</string>
+    <string name="notification_message">message</string>
+    <string name="ticker_text">ticket text</string>
+
+    <string
+        name="permission_rationale">Location permission needed for the functionality of the apps.
+    </string>
+
+    <string name="permission_denied_explanation">
+        You need to grant location permission.
+    </string>
+    <string name="settings">Settings</string>
+    <string
+        name="location_setting_off">Please turn on device location in Settings and try again.
+    </string>
+    <string name="location_required_error">Location services must be enabled for this apps.</string>
+    <string name="please_wait">please wait</string>
+</resources>
